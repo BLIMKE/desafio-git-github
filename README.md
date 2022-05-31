@@ -1,2 +1,2 @@
-# desafio-git-github
+# desafio git/github
 primeiro desafio git/github proposto pela dio
